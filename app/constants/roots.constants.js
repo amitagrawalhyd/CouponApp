@@ -1,0 +1,6 @@
+export default {
+  LOADING: 'LOADING',
+  INSIDE: 'INSIDE',
+  OUTSIDE: 'OUTSIDE',
+  INTRODUCTION: 'INTRODUCTION',
+};

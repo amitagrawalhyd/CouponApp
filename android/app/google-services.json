@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622290720863",
+    "project_id": "fossilexcouponapp-1af08",
+    "storage_bucket": "fossilexcouponapp-1af08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622290720863:android:9b5cb97813186bb33223ea",
+        "android_client_info": {
+          "package_name": "com.fossilex.couponapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwfLb9mn88vUj80jq-lvBxaE1z_GCRyF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
