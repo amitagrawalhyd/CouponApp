@@ -30,7 +30,7 @@
     "react-native-camera": "^4.2.1",
     "react-native-confirmation-code-input": "^1.0.4",
     "react-native-email": "^2.1.0",
-    "react-native-gesture-handler": "^2.12.1",
+    "react-native-gesture-handler": "^2.15.0",
     "react-native-localize": "^3.0.2",
     "react-native-paper": "^5.10.4",
     "react-native-permissions": "^3.10.1",
